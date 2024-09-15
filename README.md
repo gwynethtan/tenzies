@@ -11,6 +11,8 @@ A mini game where users roll the dice and lock its values untill all 10 dices ha
 - Feature 3-allows to restart game once player has locked all 10 values, regardless if the values are the same or not
  
 - Feature 4-shows confetti if the player won the game 
+
+- Feature 5-It is responsive
  
 ## Technologies Used
  
@@ -22,5 +24,5 @@ A mini game where users roll the dice and lock its values untill all 10 dices ha
 ## Credits
  https://www.youtube.com/watch?v=bMknfKXIFA8&t=5769sa
 
- ## Web application
- https://www.youtube.com/watch?v=bMknfKXIFA8&t=5769sa
+ ## Web application walkthrough
+https://youtu.be/j9L5ibhwnWc
